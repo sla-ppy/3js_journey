@@ -5,7 +5,7 @@
 [Examples](https://threejs.org/examples/#webgl_animation_keyframes)
 
 ### Lessons:
-[3. - ]()
+[3. - Basic Scene](https://github.com/sla-ppy/3js_journey/tree/master/03_basic_scene)
 
 
 ### Extra Resources:
